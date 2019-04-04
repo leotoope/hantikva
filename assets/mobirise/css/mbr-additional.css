@@ -1,0 +1,66 @@
+#ext_menu-1 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1.mbr-navbar--stuck .mbr-navbar__section {
+  background: #232222;
+}
+#ext_menu-1 .mbr-navbar__section {
+  background: #232222;
+}
+#ext_menu-1 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-4 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-4.mbr-navbar--stuck .mbr-navbar__section {
+  background: #232222;
+}
+#ext_menu-4 .mbr-navbar__section {
+  background: #232222;
+}
+#ext_menu-4 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-r .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-r.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-r .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-r .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-s .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-s.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-s .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-s .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#msg-box2-u .mbr-header .mbr-header__text {
+  color: #252525;
+}
+#msg-box2-u .mbr-article {
+  color: #252525;
+}
+#msg-box2-v .mbr-header .mbr-header__text {
+  color: #252525;
+}
+#msg-box2-v .mbr-article {
+  color: #252525;
+}
+#msg-box2-w .mbr-header .mbr-header__text {
+  color: #252525;
+}
+#msg-box2-w .mbr-article {
+  color: #252525;
+}
